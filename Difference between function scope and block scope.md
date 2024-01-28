@@ -41,7 +41,7 @@ b();
 ES5 has function scope because of `Hoisting`.
 ES6 does not have `hoisting` , it has block scope.
 
-***Note:*** Agar aap `var` keyword se variable decalre karte hai to `hoisting`
+***Note:*** Agar aap `var` keyword se variable declare karte hai to `hoisting`
 hoga.
 
 ***Hoisting*** : jab aap variable declare karte ho `var` keyword ki help se to compiler sare declaration top mai shift kar deta hai use hoisting kehte hia. 
